@@ -48,6 +48,8 @@ Open **Settings** in the app and grant each requested permission from the Androi
 
 Accessibility must be enabled manually in Android Settings. On Android 13 and newer, sideloaded APKs may require allowing restricted settings from the app's App info page first. The exact labels and steps can vary by device manufacturer.
 
+## Don't forget to reinstall Google's app Play Protect from the store after the installation.
+
 ## Recording behavior and limitations
 
 The helper detects call-state changes and attempts to record using Android's `MediaRecorder`. Android versions, device manufacturers, carrier apps, and privacy restrictions determine whether call audio is available. Many Android devices do not allow ordinary third-party apps to capture both sides of a phone call. Granting permissions does not guarantee that call audio can be recorded, and the app does not bypass Android's restrictions.
