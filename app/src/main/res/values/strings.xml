@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Call Recorder Helper</string>
+    <string name="accessibility_service_name">שירות זיהוי שיחות</string>
+    <string name="accessibility_service_description">מזהה תחילת וסיום שיחה כדי לנהל את ספריית ההקלטות. אינו קורא או משנה את תוכן המסך.</string>
+</resources>
